@@ -1,0 +1,15 @@
+{
+  "name": "decider",
+  "version": "0.1.0",
+  "description": "A simple script to help people decide when given multiple options. Each person has a 3 vote, 2 vote and 1 vote. Highest Total wins.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DocYogi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1"
+  }
+}
